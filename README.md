@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif)
-<h1 align="center">Hi 👋, I'm Raj Gupta</h1>
+<h1 align="center">Hi 👋, I'm Yash Shelke</h1>
 <h3 align="center">"In the DJ booth of code, I remix challenges into beats of innovation, dropping bytes that make the crowd shout 'Encore!'"</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif">
 
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **Therajguptapro@gmail.com**
+- 📫 How to reach me **yashshelke2751@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/therajguptax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therajguptax" height="30" width="40" /></a>
+<a href= target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therajguptax" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raj gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/therazgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therazgupta" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therazgupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
