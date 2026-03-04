@@ -16,10 +16,9 @@
 
 - 🤖 Passionate about Artificial Intelligence & Machine Learning  
 - 🐍 Strong foundation in **Python**  
-- ☕ Currently mastering **Java (DSA Focused)**  
-- ⚛️ Exploring **React** for frontend development  
-- 🚀 Building intelligent systems like **Jarvis AI Assistant**  
-- 🔥 Consistently improving through **100 Days of Code**
+- ☕ Currently mastering **Java (DSA Focused)**    
+- 🚀 Build intelligent systems like **Jarvis AI Assistant**  
+- 🔥 Consistently improving 
 
 ---
 
@@ -94,7 +93,9 @@ Next Goal ➜ Add Machine Learning based response intelligence 🧠
 ## 📫 Connect With Me
 
 - 📧 Email: yashshelke2751@gmail.com  
-- 💼 LinkedIn: (Add your link)
+- 💼 LinkedIn: www.linkedin.com/in/
+yash-shelke-3a4069390
+
 
 ---
 
