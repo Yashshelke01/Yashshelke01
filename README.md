@@ -1,23 +1,35 @@
-<h1 align="center">🤖 Yash Shelke | AI Developer</h1>
-
-<h3 align="center">
-Building Intelligent Systems with Code • Turning Ideas into AI Solutions
-</h3>
+<h1 align="center">🧠 Yash Shelke | AI & Machine Learning Developer</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashShelke01&label=Profile%20Views&color=blueviolet&style=flat" alt="YashShelke01" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Python+Developer;Java+Learner;Future+AI+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashShelke01&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🤖 Passionate about Artificial Intelligence & Automation
-- 🐍 Strong foundation in **Python**
-- ☕ Currently learning **Java**
-- ⚛️ Exploring **React** for frontend development
-- 🚀 Building projects like **Jarvis AI Assistant**
+<img align="right" alt="AI" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🤖 Passionate about Artificial Intelligence & Machine Learning  
+- 🐍 Strong foundation in **Python**  
+- ☕ Currently mastering **Java (DSA Focused)**  
+- ⚛️ Exploring **React** for frontend development  
+- 🚀 Building intelligent systems like **Jarvis AI Assistant**  
 - 🔥 Consistently improving through **100 Days of Code**
+
+---
+
+## 🤖 AI / ML Focus
+
+- 🧠 Machine Learning Basics
+- 📊 Data Processing & Analysis
+- 🎙 Speech Recognition Systems
+- 🔊 Text-to-Speech Applications
+- ⚙ Automation & AI Integration
 
 ---
 
@@ -25,30 +37,32 @@ Building Intelligent Systems with Code • Turning Ideas into AI Solutions
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
-### 🌐 Web & Tools
+### 🤖 AI / Tools
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
 </p>
 
 ---
 
-## 🤖 AI Projects
+## 🤖 Featured AI Project
 
 ### 🔹 Jarvis AI Assistant
-Voice-controlled AI assistant built using:
-- Speech Recognition
-- Text-to-Speech
-- Python Automation
-- API Integration
+AI voice assistant built using:
+- Speech Recognition  
+- Text-to-Speech  
+- Python Automation  
+- API Integration  
 
-More AI projects coming soon...
+Next Goal ➜ Add Machine Learning based response intelligence 🧠
 
 ---
 
@@ -68,20 +82,20 @@ More AI projects coming soon...
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 AI Goals
 
-- 🚀 Build Advanced AI Applications
-- 📚 Master Data Structures & Algorithms in Java
-- 🧠 Learn Machine Learning
-- 🌐 Deploy Full-Stack AI Projects
+- 🧠 Learn Core Machine Learning Algorithms  
+- 📚 Master Data Structures & Algorithms in Java  
+- 🤖 Build ML-powered AI Assistant  
+- 🌐 Deploy Full-Stack AI Applications  
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: yashshelke2751@gmail.com
-- 💼 LinkedIn: (Add your link here)
+- 📧 Email: yashshelke2751@gmail.com  
+- 💼 LinkedIn: (Add your link)
 
 ---
 
-⭐️ "Code. Learn. Build. Repeat."
+⭐️ *“Training models. Writing code. Building intelligence.”*
