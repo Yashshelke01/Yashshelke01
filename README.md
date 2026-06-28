@@ -16,7 +16,7 @@
 
 - 🤖 Passionate about Artificial Intelligence & Machine Learning  
 - 🐍 Strong foundation in **Python**  
-- ☕ Currently mastering **Java (DSA Focused)**    
+- ☕ Currently mastering **Java**    
 - 🚀 Build intelligent systems like **Jarvis AI Assistant**  
 - 🔥 Consistently improving 
 
@@ -78,15 +78,6 @@ Next Goal ➜ Add Machine Learning based response intelligence 🧠
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashShelke01&theme=tokyonight" />
 </p>
-
----
-
-## 🎯 2026 AI Goals
-
-- 🧠 Learn Core Machine Learning Algorithms  
-- 📚 Master Data Structures & Algorithms in Java  
-- 🤖 Build ML-powered AI Assistant  
-- 🌐 Deploy Full-Stack AI Applications  
 
 ---
 
